@@ -1,0 +1,60 @@
+{
+  "b533f0cd98df8826a77e4a408e7f45bbc8309560a39373bcdf94507cd5f3de92": [
+    "README.md",
+    "copy_folder/README.md"
+  ],
+  "README.md": [
+    "b533f0cd98df8826a77e4a408e7f45bbc8309560a39373bcdf94507cd5f3de92"
+  ],
+  "copy_folder/README.md": [
+    "b533f0cd98df8826a77e4a408e7f45bbc8309560a39373bcdf94507cd5f3de92"
+  ],
+  "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3": [
+    "test/.DS_Store",
+    "copy_folder/.DS_Store"
+  ],
+  "test/.DS_Store": [
+    "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+  ],
+  "copy_folder/.DS_Store": [
+    "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+  ],
+  "93ce4c2e5ce934ad00d542f026d8b138164ae96bef4b78ee6467972e0ccd3be4": [
+    "copy.py",
+    "cioy2.py",
+    "frereerg.py"
+  ],
+  "copy.py": [
+    "93ce4c2e5ce934ad00d542f026d8b138164ae96bef4b78ee6467972e0ccd3be4"
+  ],
+  "cioy2.py": [
+    "93ce4c2e5ce934ad00d542f026d8b138164ae96bef4b78ee6467972e0ccd3be4"
+  ],
+  "frereerg.py": [
+    "93ce4c2e5ce934ad00d542f026d8b138164ae96bef4b78ee6467972e0ccd3be4"
+  ],
+  "7725ad8eacf4a9917832c90b3c793abef46e63a4cdf31ce833562debca24e4c1": [
+    "python_cpy_file0.py",
+    "python_cpy_file1.py"
+  ],
+  "python_cpy_file0.py": [
+    "7725ad8eacf4a9917832c90b3c793abef46e63a4cdf31ce833562debca24e4c1"
+  ],
+  "python_cpy_file1.py": [
+    "7725ad8eacf4a9917832c90b3c793abef46e63a4cdf31ce833562debca24e4c1"
+  ],
+  "3d2e9a9398ccfd2537d3801578cfc856be1f77ab78fe9f2a8ed94a9180287b64": [
+    "cpy_file2.txt",
+    "cpy_file1.txt",
+    "cpy_file0.txt"
+  ],
+  "cpy_file2.txt": [
+    "3d2e9a9398ccfd2537d3801578cfc856be1f77ab78fe9f2a8ed94a9180287b64"
+  ],
+  "cpy_file1.txt": [
+    "3d2e9a9398ccfd2537d3801578cfc856be1f77ab78fe9f2a8ed94a9180287b64"
+  ],
+  "cpy_file0.txt": [
+    "3d2e9a9398ccfd2537d3801578cfc856be1f77ab78fe9f2a8ed94a9180287b64"
+  ]
+}
