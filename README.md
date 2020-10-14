@@ -13,7 +13,7 @@ After running the script, run the <detector.py> script with the path to the newl
 
 ## Contents
 This script includes the functionality of: <br>
--new: Displays files found in the second directory path, which were not found in the first<br>
--sizes: Displays the size of all files which have copies, in bytes<br>
+* new: Displays files found in the second directory path, which were not found in the first 
+* sizes: Displays the size of all files which have copies, in bytes<br>
 -find <EXTENSION>: Only runs the program on files which have the extension written by the user in <EXTENSION><br>
   
