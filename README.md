@@ -12,8 +12,8 @@ In order to run the a test of the program, run the script <make_dirs.py>. This w
 After running the script, run the <detector.py> script with the path to the newly made directory.
 
 ## Contents
-This script includes the functionality of: <br>
+This script includes the functionality of:
 * new: Displays files found in the second directory path, which were not found in the first 
-* sizes: Displays the size of all files which have copies, in bytes<br>
--find <EXTENSION>: Only runs the program on files which have the extension written by the user in <EXTENSION><br>
+* sizes: Displays the size of all files which have copies, in bytes
+* find <EXTENSION>: Only runs the program on files which have the extension written by the user in <EXTENSION>
   
