@@ -4,7 +4,6 @@ def make_dirs():
     """
         This script makes new directories.
     """
-    d = Detector()
     path = os.path.realpath(__file__)
     list_dir_path = path.split("/")[:len(path.split("/"))-1]
     list_dir_path.remove(list_dir_path[0])
